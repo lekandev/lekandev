@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Mohammed Kabir Hussaini, i am a teenage developer and JavaScript dev
+
+Im looking to collaborate on JavaScript and Frontend Projects
