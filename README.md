@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Mohammed Kabir Hussaini, i am a teenage developer and JavaScript dev
+My name is Mohammed Kabir Hussaini, i am a teenage developer and Frontend dev
+
+🌱 I’m currently learning Full stack development with Django and ExpressJs
 
 Im looking to collaborate on JavaScript and Frontend Projects
+
+🔭 I’m currently working on a decentralized link web application
