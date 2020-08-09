@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 -->
 My name is Mohammed Kabir Hussaini, i am a teenage developer and Frontend dev
 
-🌱 I’m currently learning Full stack development with Django and ExpressJs
+🌱 I’m currently learning Full stack development with Django, ExpressJs and Golang
 
 Im looking to collaborate on JavaScript and Frontend Projects
 
 🔭 I’m currently working on a decentralized link web application
+
+
