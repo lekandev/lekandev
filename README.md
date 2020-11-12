@@ -22,7 +22,7 @@ Im looking to collaborate on JavaScript and Frontend Projects
 
 🔭 I’m currently working on a decentralized link web application
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![lekandev's github stats](https://github-readme-stats.vercel.app/api?username=lekandev)](https://github.com/lekandev/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lekandev)](https://github.com/lekandev/github-readme-stats)
 
