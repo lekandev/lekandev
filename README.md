@@ -14,13 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Mohammed Kabir Hussaini, i am a teenage developer and Frontend dev
+My name is Mohammed Kabir Hussaini, i am a teenage developer and Frontend developer, I turn great UIs into beautiful sites
 
-🌱 I’m currently learning Full stack development with Django, ExpressJs and Golang
+🌱 I’m currently learning Full stack development with Django, MERN stack and Golang
 
 Im looking to collaborate on JavaScript and Frontend Projects
-
-🔭 I’m currently working on a decentralized link web application
 
 [![lekandev's github stats](https://github-readme-stats.vercel.app/api?username=lekandev)](https://github.com/lekandev/github-readme-stats)
 
