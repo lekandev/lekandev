@@ -22,6 +22,8 @@ Im looking to collaborate on JavaScript and Frontend Projects
 
 [![lekandev's github stats](https://github-readme-stats.vercel.app/api?username=lekandev)](https://github.com/lekandev/github-readme-stats)
 
+[![lekandev's github stats](https://github-readme-stats.vercel.app/api?username=lekandev&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lekandev)](https://github.com/lekandev/github-readme-stats)
 
 
