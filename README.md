@@ -20,7 +20,7 @@ My name is Mohammed Kabir Hussaini, i am a teenage developer and Frontend develo
 
 Im looking to collaborate on JavaScript and Frontend Projects
 
-![lekandev's github stats](https://github-readme-stats.vercel.app/api?username=lekandev&show_icons=true&theme=synthwave)
+![lekandev's github stats](https://github-readme-stats.vercel.app/api?username=lekandev&show_icons=true&theme=synthwave&hide_border)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lekandev&layout=compact&theme=synthwave)](https://github.com/lekandev/github-readme-stats)
 
