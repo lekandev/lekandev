@@ -25,3 +25,6 @@ Im looking to collaborate on JavaScript and Frontend Projects
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lekandev&layout=compact&theme=synthwave)](https://github.com/lekandev/github-readme-stats)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lekandev&repo=react-portfolio&theme=synthwave)](https://github.com/lekandev/github-readme-stats)
+
+<!--STARTS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README-->
