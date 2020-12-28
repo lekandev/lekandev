@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Mohammed Kabir Hussaini, i am a teenage developer and Frontend developer, I turn great UIs into beautiful sites
+My name is Mohammed Kabir Hussaini, I am an idealistic teenager, frontend developer with skills on JavaScript, NextJs and MERN stack. I tend to have major, original ideas to create the next big thing.
 
 🔭 I’m currently working on an Ecommerce web application with MERN stack
 
