@@ -16,7 +16,23 @@ My name is Mohammed Kabir Hussaini, I am an idealistic teenager, frontend develo
 
 🔭 I’m currently working on an Ecommerce web application with MERN stack
 
-🌱 I’m currently learning Full stack development with Django, MERN stack and Golang
+🌱 I’m currently learning Full stack development with MERN stack and Golang
+
+Here the technologies I'm conversant with:
+- HTML
+- CSS
+- JavaScript
+- Reactjs
+- NextJs
+- Tailwind CSS
+- PWA
+
+Technologies I'm learning:
+- NodeJs
+- ExpressJs
+- MongoDb
+- Docker
+- AWS
 
 Im looking to collaborate on JavaScript and Frontend Projects
 
