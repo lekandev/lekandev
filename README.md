@@ -9,6 +9,17 @@ Here are some ideas to get you started:
 -->
 My name is Mohammed Kabir Hussaini, I am an idealistic teenager, frontend developer with skills on JavaScript, NextJs and MERN stack. I tend to have major, original ideas to create the next big thing.
 
+```javascript
+const aboutMe = {name: 'Mohammed Kabir Hussaini', 
+                 age: 17, 
+                 title: 'Frontend developer'
+                };
+```
+
+You can check out my portfolio at [lekan's portfolio](https://lekan.vercel.app)
+
+Check out my blog at [lekan's Hideout](https://lekandev.hashnode.dev)
+
 👯 I’m looking to collaborate on Frontend and JavaScipt Projects
 
 🔭 I’m currently working on an Ecommerce web application with MERN stack
