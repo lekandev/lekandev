@@ -19,6 +19,12 @@ My name is Mohammed Kabir Hussaini, I am an idealistic teenager, frontend develo
 🌱 I’m currently learning Full stack development with MERN stack and Golang
 
 Here the technologies I'm conversant with:
+
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-GreenSock-informational?style=flat&logo=GreenSock&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
+
 - HTML
 - CSS
 - JavaScript
