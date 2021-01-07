@@ -1,12 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**lekandev/lekandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--->
+![lekan](https://github.com/lekandev/lekandev/blob/master/me.jpg?raw=true)
+
 My name is Mohammed Kabir Hussaini, I am an idealistic teenager, frontend developer with skills on JavaScript, NextJs and MERN stack. I tend to have major, original ideas to create the next big thing.
 
 ```javascript
@@ -32,7 +28,7 @@ Check out my blog at [lekan's Hideout](https://lekandev.hashnode.dev)
 
 Here the technologies I'm conversant with:
 
-- <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+- <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>                           
 - <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 - <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 - <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -51,8 +47,6 @@ Technologies I'm planning on learning:
 - <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 - <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 - <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-
-Im looking to collaborate on JavaScript and Frontend Projects
 
 ![lekandev's github stats](https://github-readme-stats.vercel.app/api?username=lekandev&show_icons=true&theme=synthwave)
 
