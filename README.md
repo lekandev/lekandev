@@ -39,7 +39,6 @@ Here the technologies I'm conversant with:
 - <img src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
 
 - NextJs
-- PWA
 
 Technologies I'm planning on learning:
 - <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -59,6 +58,8 @@ Projects i'm proud of:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lekandev&repo=lekan&theme=synthwave)](https://github.com/lekandev/github-readme-stats)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lekandev&repo=felasesi&theme=synthwave)](https://github.com/lekandev/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lekandev&repo=Admin-Dashboard&theme=synthwave)](https://github.com/lekandev/github-readme-stats)
 
 <a href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
