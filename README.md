@@ -47,19 +47,19 @@ Technologies I'm planning on learning:
 - <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 - <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
-![lekandev's github stats](https://github-readme-stats.vercel.app/api?username=lekandev&show_icons=true&theme=solarized-light)
+![lekandev's github stats](https://github-readme-stats.vercel.app/api?username=lekandev&show_icons=true&theme=bear)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lekandev&layout=compact&theme=solarized-light)](https://github.com/lekandev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lekandev&layout=compact&theme=bear)](https://github.com/lekandev/github-readme-stats)
 
 Projects i'm proud of:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lekandev&repo=weatherapp&theme=solarized-light)](https://github.com/lekandev/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lekandev&repo=weatherapp&theme=bear)](https://github.com/lekandev/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lekandev&repo=lekan&theme=solarized-light)](https://github.com/lekandev/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lekandev&repo=lekan&theme=bear)](https://github.com/lekandev/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lekandev&repo=felasesi&theme=solarized-light)](https://github.com/lekandev/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lekandev&repo=felasesi&theme=bear)](https://github.com/lekandev/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lekandev&repo=Admin-Dashboard&theme=solarized-light)](https://github.com/lekandev/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lekandev&repo=Admin-Dashboard&theme=bear)](https://github.com/lekandev/github-readme-stats)
 
 <a href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
