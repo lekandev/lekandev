@@ -27,7 +27,7 @@ Check out my blog at [lekan's Hideout](https://lekandev.hashnode.dev)
 
 Here the technologies I'm conversant with:
 
-- <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>                           
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
 - <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 - <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 - <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -46,22 +46,22 @@ Technologies I'm planning on learning:
 - <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 - <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
-![lekandev's github stats](https://github-readme-stats.vercel.app/api?username=lekandev&show_icons=true&theme=synthwave)
+![lekandev's github stats](https://github-readme-stats.vercel.app/api?username=lekandev&show_icons=true&theme=bear)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lekandev&layout=compact&theme=synthwave)](https://github.com/lekandev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lekandev&layout=compact&theme=bear)](https://github.com/lekandev/github-readme-stats)
 
 Projects i'm proud of:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lekandev&repo=weatherapp&theme=synthwave)](https://github.com/lekandev/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lekandev&repo=weatherapp&theme=bear)](https://github.com/lekandev/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lekandev&repo=lekan&theme=synthwave)](https://github.com/lekandev/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lekandev&repo=lekan&theme=bear)](https://github.com/lekandev/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lekandev&repo=felasesi&theme=synthwave)](https://github.com/lekandev/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lekandev&repo=felasesi&theme=bear)](https://github.com/lekandev/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lekandev&repo=Admin-Dashboard&theme=synthwave)](https://github.com/lekandev/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lekandev&repo=Admin-Dashboard&theme=bear)](https://github.com/lekandev/github-readme-stats)
 
 <a href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The more you know, the more you realize you know nothing.”— Socrates   ❞</i>
+<i>❝The password for the computer controls of nuclear-tipped missiles of the U.S was 00000000 for eight years.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
