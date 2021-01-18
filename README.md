@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-
 ![lekan](https://github.com/lekandev/lekandev/blob/master/me.jpg?raw=true)
 
-My name is Mohammed Kabir Hussaini, I am an idealistic teenager, frontend developer with skills on JavaScript, NextJs and MERN stack. I tend to have major, original ideas to create the next big thing.
+My name is Mohammed Kabir Hussaini, I am an idealistic teenager, Creative Coder and frontend developer capable of translating beautiful User Interfaces into Responsive and pixel perfect websites with skills on JavaScript,  ReactJs and NextJs. I tend to have major, original ideas to create the next big thing.
 
 ```javascript
 const aboutMe = {name: 'Mohammed Kabir Hussaini', 
@@ -18,9 +17,9 @@ Check out my blog at [lekan's Hideout](https://lekandev.hashnode.dev)
 
 👯 I’m looking to collaborate on Frontend and JavaScipt Projects
 
-🔭 I’m currently working on an Ecommerce web application with MERN stack
+🔭 I’m currently working on an Ecommerce web application with JavaScript
 
-🌱 I’m currently learning Full stack development with MERN stack and Golang
+🌱 I’m currently learning Full stack development with MERN stack
 
 ⚡ Fun fact: I sometimes create Games with <img src="https://img.shields.io/badge/unreal%20engine%20-%23313131.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white"/> and I love creating with <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 
