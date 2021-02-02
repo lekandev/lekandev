@@ -53,9 +53,9 @@ Technologies I'm planning on learning:
 
 Projects i'm proud of:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lekandev&repo=weatherapp&theme=bear)](https://github.com/lekandev/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lekandev&repo=airbnb-clone&theme=bear)](https://github.com/lekandev/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lekandev&repo=lekan&theme=bear)](https://github.com/lekandev/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lekandev&repo=beach-resort-app&theme=bear)](https://github.com/lekandev/github-readme-stats)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lekandev&repo=Ecommerce-with-js&theme=bear)](https://github.com/lekandev/github-readme-stats)
 
