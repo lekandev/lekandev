@@ -11,6 +11,8 @@ const aboutMe = {name: 'Mohammed Kabir Hussaini',
                 };
 ```
 
+![](https://komarev.com/ghpvc/?username=lekandev&color=red)
+
 You can check out my portfolio at [lekan's portfolio](https://lekan.vercel.app)
 
 Check out my blog at [lekan's Hideout](https://lekandev.hashnode.dev)
