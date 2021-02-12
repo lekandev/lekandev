@@ -21,11 +21,14 @@ Check out my blog at [lekan's Hideout](https://lekandev.hashnode.dev)
 
 👯 I’m looking to collaborate on Frontend and JavaScipt Projects
 
-🔭 I’m currently working on an Ecommerce web application with JavaScript
+🔭 I’m currently working on an Airbnb clone with React and Material UI
 
 🌱 I’m currently learning Full stack development with MERN stack
 
-⚡ Fun fact: I sometimes create Games with <img src="https://img.shields.io/badge/unreal%20engine%20-%23313131.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white"/> and I love creating with <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+⚡ Fun fact: I sometimes create Games with: 
+<img src="https://img.shields.io/badge/unreal%20engine%20-%23313131.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white"/>
+ and I love creating  with: 
+<img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 
 📫 How to reach me: <img src="https://img.shields.io/badge/lekandev%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> <img src="https://img.shields.io/badge/lekandev%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 
