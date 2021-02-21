@@ -3,10 +3,17 @@
 ![lekan](https://github.com/lekandev/lekandev/blob/master/me.jpg?raw=true)
 
 My name is 
-### Mohammed Kabir Hussaini, 
-I am an idealistic teenager, Creative Coder and frontend developer capable of translating beautiful User Interfaces into Responsive and pixel perfect websites with skills on JavaScript,  ReactJs and NextJs. I tend to have major, original ideas to create the next big thing.
+### *Mohammed Kabir Hussaini*, 
+I am an idealistic teenager, Creative Coder and **frontend developer** capable of translating beautiful User Interfaces into Responsive and pixel perfect websites with skills on **JavaScript,  ReactJs and NextJs**. I tend to have major, original ideas to create the next big thing.
 
-![lekan](https://github.com/lekandev/lekandev/blob/master/aboutme.png =450x)
+```javascript
+const aboutme = {
+  name: "Mohammed Kabir Hussaini"
+  age: 17
+  title: "Frontend Developer"
+  stack: "MERN, NextJs"
+}
+```
 
 ![](https://komarev.com/ghpvc/?username=lekandev&color=red)
 
