@@ -7,11 +7,10 @@ My name is
 I am an idealistic teenager, Creative Coder and **frontend developer** capable of translating beautiful User Interfaces into Responsive and pixel perfect websites with skills on **JavaScript,  ReactJs and NextJs**. I tend to have major, original ideas to create the next big thing.
 
 ```javascript
-const aboutme = {
-  name: "Mohammed Kabir Hussaini"
-  age: 17
-  title: "Frontend Developer"
-  stack: "MERN, NextJs"
+const aboutme = {name: "Mohammed Kabir Hussaini",
+                 age: 17
+                 title: "Frontend Developer"
+                 stack: "MERN, NextJs"
 }
 ```
 
