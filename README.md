@@ -3,11 +3,11 @@
 ![lekan](https://github.com/lekandev/lekandev/blob/master/me.jpg?raw=true)
 
 My name is 
-### *Mohammed Kabir Hussaini*, 
+## *Mohammed Kabir Hussaini*,
 I am an idealistic teenager, Creative Coder and **frontend developer** capable of translating beautiful User Interfaces into Responsive and pixel perfect websites with skills on **JavaScript,  ReactJs and NextJs**. I tend to have major, original ideas to create the next big thing.
 
 ```javascript
-const aboutme = {name: 'Mohammed Kabir Hussaini',
+const aboutMe = {name: 'Mohammed Kabir Hussaini',
                  age: 17,
                  title: 'Frontend Developer',
                  stack: 'MERN, NextJs'
@@ -55,10 +55,13 @@ Technologies I'm planning on learning:
 <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
+<div align="center">
 
 ![lekandev's github stats](https://github-readme-stats.vercel.app/api?username=lekandev&show_icons=true&theme=bear)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lekandev&layout=compact&theme=bear&hide=TeX)](https://github.com/lekandev/github-readme-stats)
+
+
 
 Projects i'm proud of:
 
@@ -69,6 +72,8 @@ Projects i'm proud of:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lekandev&repo=covid-19-tracker&theme=bear)](https://github.com/lekandev/github-readme-stats)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lekandev&repo=Admin-Dashboard&theme=bear)](https://github.com/lekandev/github-readme-stats)
+
+</div>
 
 <a href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
