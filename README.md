@@ -13,6 +13,7 @@ const aboutme = {name: 'Mohammed Kabir Hussaini',
                  stack: 'MERN, NextJs'
 }
 ```
+<p align="center">
 
 ![](https://komarev.com/ghpvc/?username=lekandev&color=red)
 
@@ -68,6 +69,8 @@ Projects i'm proud of:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lekandev&repo=covid-19-tracker&theme=bear)](https://github.com/lekandev/github-readme-stats)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lekandev&repo=Admin-Dashboard&theme=bear)](https://github.com/lekandev/github-readme-stats)
+
+</p>
 
 <a href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
