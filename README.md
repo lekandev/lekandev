@@ -21,11 +21,11 @@ You can check out my portfolio at [lekan's portfolio](https://lekan.vercel.app)
 Check out my blog at [lekan's Hideout](https://lekandev.hashnode.dev)
 
 <p align="center">
-👯 I’m looking to collaborate on Frontend and JavaScipt Projects
+  👯 I’m looking to collaborate on Frontend and JavaScipt Projects
 
-🔭 I’m currently working on an Airbnb clone with React and Material UI
+  🔭 I’m currently working on an Airbnb clone with React and Material UI
 
-🌱 I’m currently learning Full stack development with MERN stack
+  🌱 I’m currently learning Full stack development with MERN stack
 </p>
 
 ⚡ Fun fact: I sometimes create Games with: 
