@@ -14,7 +14,7 @@ const aboutme = {name: 'Mohammed Kabir Hussaini',
 }
 ```
 <p align="center">
-
+  
 ![](https://komarev.com/ghpvc/?username=lekandev&color=red)
 
 You can check out my portfolio at [lekan's portfolio](https://lekan.vercel.app)
@@ -33,7 +33,7 @@ Check out my blog at [lekan's Hideout](https://lekandev.hashnode.dev)
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 
 📫 How to reach me: <img src="https://img.shields.io/badge/lekandev%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> <img src="https://img.shields.io/badge/lekandev%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-
+</p>
 Here the technologies I'm conversant with:
 
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
@@ -69,8 +69,6 @@ Projects i'm proud of:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lekandev&repo=covid-19-tracker&theme=bear)](https://github.com/lekandev/github-readme-stats)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lekandev&repo=Admin-Dashboard&theme=bear)](https://github.com/lekandev/github-readme-stats)
-
-</p>
 
 <a href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
