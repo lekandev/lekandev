@@ -14,7 +14,8 @@ const aboutme = {name: 'Mohammed Kabir Hussaini',
 }
 ```
 <p align="center">
-  
+  text text text
+</p>
 ![](https://komarev.com/ghpvc/?username=lekandev&color=red)
 
 You can check out my portfolio at [lekan's portfolio](https://lekan.vercel.app)
@@ -33,7 +34,7 @@ Check out my blog at [lekan's Hideout](https://lekandev.hashnode.dev)
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 
 📫 How to reach me: <img src="https://img.shields.io/badge/lekandev%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> <img src="https://img.shields.io/badge/lekandev%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</p>
+
 Here the technologies I'm conversant with:
 
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
