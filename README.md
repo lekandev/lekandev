@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![lekan](https://github.com/lekandev/lekandev/blob/master/me.jpg?raw=true)
+![lekan](https://github.com/lekandev/lekandev/blob/master/me2.png?raw=true)
 
 My name is 
 ## *Mohammed Kabir Hussaini*,
