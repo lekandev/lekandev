@@ -48,15 +48,15 @@ Here the technologies I'm conversant with:
 ![](https://img.shields.io/badge/Code-Vercel-informational?style=flat&logo=Vercel&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-NextJs-informational?style=flat&logo=Next&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-TailwindCSS-informational?style=flat&logo=Tailwind&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=Nodejs&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=nodejs&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=Express&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MongoDb-informational?style=flat&logo=MongoDb&logoColor=white&color=4AB197)
 
 Technologies I'm planning on learning:
 
 ![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-AWS-informational?style=flat&logo=AWS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-AWS-informational?style=flat&logo=aws&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=4AB197)
 
 
 ![lekandev's github stats](https://github-readme-stats.vercel.app/api?username=lekandev&show_icons=true&theme=bear)
