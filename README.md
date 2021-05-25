@@ -56,7 +56,7 @@ Technologies I'm planning on learning:
 
 <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=c++&logoColor=white"/>
+<img src="https://img.shields.io/badge/c++%20-%23FF9900.svg?&style=for-the-badge&logo=c++&logoColor=white"/>
 
 
 ![lekandev's github stats](https://github-readme-stats.vercel.app/api?username=lekandev&show_icons=true&theme=bear)
