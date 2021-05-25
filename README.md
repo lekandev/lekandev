@@ -4,12 +4,12 @@
 
 My name is 
 ## *Mohammed Kabir Hussaini*,
-I am an idealistic teenager, Creative Coder and **frontend developer** capable of translating beautiful User Interfaces into Responsive and pixel perfect websites with skills on **JavaScript,  ReactJs and NextJs**. I tend to have major, original ideas to create the next big thing.
+I am an idealistic teenager, Creative Coder and **Fullstack/frontend developer** capable of translating beautiful User Interfaces into Responsive and pixel perfect websites with skills on **JavaScript,  ReactJs and NextJs**. I tend to have major, original ideas to create the next big thing.
 
 ```javascript
 const aboutMe = {name: 'Mohammed Kabir Hussaini',
                  age: 17,
-                 title: 'Frontend Developer',
+                 title: 'Fullstack Developer',
                  stack: 'MERN, NextJs'
 }
 ```
@@ -26,7 +26,7 @@ Check out my blog at [lekan's Hideout](https://lekandev.hashnode.dev)
 
 🔭 I’m currently working on an Airbnb clone with React and Material UI
 
-🌱 I’m currently learning Full stack development with MERN stack
+🌱 I’m currently learning embedded software development with C++
 
 ⚡ Fun fact: I sometimes create Games with: 
 
@@ -48,14 +48,15 @@ Here the technologies I'm conversant with:
 ![](https://img.shields.io/badge/Code-Vercel-informational?style=flat&logo=Vercel&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-NextJs-informational?style=flat&logo=Next&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-TailwindCSS-informational?style=flat&logo=Tailwind&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=Node&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=Express&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MongoDb-informational?style=flat&logo=MongoDb&logoColor=white&color=4AB197)
 
 Technologies I'm planning on learning:
 
-<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
-<img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=c++&logoColor=white"/>
 
 
 ![lekandev's github stats](https://github-readme-stats.vercel.app/api?username=lekandev&show_icons=true&theme=bear)
@@ -66,7 +67,7 @@ Technologies I'm planning on learning:
 
 Projects i'm proud of:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lekandev&repo=airbnb-clone&theme=bear)](https://github.com/lekandev/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lekandev&repo=nodejs-CMS&theme=bear)](https://github.com/lekandev/github-readme-stats)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lekandev&repo=covid-19-tracker&theme=bear)](https://github.com/lekandev/github-readme-stats)
 
