@@ -24,15 +24,13 @@ Check out my blog at [lekan's Hideout](https://lekandev.hashnode.dev)
 
 👯 I’m looking to collaborate on Frontend and JavaScipt Projects
 
-🔭 I’m currently working on an Airbnb clone with React and Material UI
+🔭 I’m currently working on a Model portfolio site with HTML, SCSS and JavaScript
 
-🌱 I’m currently learning embedded software development with C++
+🌱 I’m currently learning full stack development with MERN and MEVN
 
 ⚡ Fun fact: I sometimes create Games with: 
 
 <img src="https://img.shields.io/badge/unreal%20engine%20-%23313131.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white"/>
- and I love creating with: 
-<img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 
 📫 How to reach me: <img src="https://img.shields.io/badge/lekandev%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> <img src="https://img.shields.io/badge/lekandev%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 
@@ -57,6 +55,7 @@ Technologies I'm planning on learning:
 ![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-AWS-informational?style=flat&logo=aws&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=4AB197)
 
 
 ![lekandev's github stats](https://github-readme-stats.vercel.app/api?username=lekandev&show_icons=true&theme=bear)
