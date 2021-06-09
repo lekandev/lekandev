@@ -66,8 +66,6 @@ Technologies I'm planning on learning:
 
 Projects i'm proud of:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lekandev&repo=harper-CMS&theme=bear)](https://github.com/lekandev/github-readme-stats)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lekandev&repo=covid-19-tracker&theme=bear)](https://github.com/lekandev/github-readme-stats)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lekandev&repo=Admin-Dashboard&theme=bear)](https://github.com/lekandev/github-readme-stats)
