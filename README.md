@@ -60,7 +60,7 @@ Technologies I'm planning on learning:
 
 ![lekandev's github stats](https://github-readme-stats.vercel.app/api?username=lekandev&show_icons=true&theme=bear)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lekandev&layout=compact&theme=bear&hide=TeX)](https://github.com/lekandev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lekandev&layout=compact&theme=bear&hide=TeX,Java)](https://github.com/lekandev/github-readme-stats)
 
 
 
