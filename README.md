@@ -26,7 +26,7 @@ Check out my blog at [lekan's Hideout](https://lekandev.hashnode.dev)
 
 🔭 I’m currently working on a Model portfolio site with HTML, SCSS and JavaScript
 
-🌱 I’m currently learning full stack development with MERN and MEVN
+🌱 I’m currently learning NodeJs and React Native
 
 ⚡ Fun fact: I sometimes create Games with: 
 
