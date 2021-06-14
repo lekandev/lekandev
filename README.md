@@ -57,10 +57,10 @@ Technologies I'm planning on learning:
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=4AB197)
   
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lekandev&show_icons=true&theme=bear">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lekalekandev&show_icons=true&theme=bear">
-
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=lekandev&show_icons=true&theme=bear">
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=lekandev&theme=bear" />
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lekandev&layout=compact&theme=bear&hide=TeX,Java)](https://github.com/lekandev/github-readme-stats)
 
