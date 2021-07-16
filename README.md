@@ -22,9 +22,9 @@ You can check out my portfolio at [lekan's portfolio](https://lekan.vercel.app)
 
 Check out my blog at [lekan's Hideout](https://lekandev.hashnode.dev)
 
-👯 I’m looking to collaborate on Frontend and JavaScipt Projects
+👯 I’m looking to collaborate on Fulltack and JavaScipt Projects
 
-🔭 I’m currently working on a Model portfolio site with HTML, SCSS and JavaScript
+🔭 I’m currently working on a Multi vendor restaurant application with MERN
 
 🌱 I’m currently learning NodeJs and React Native
 
