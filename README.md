@@ -63,17 +63,7 @@ Technologies I'm planning on learning:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lekandev&layout=compact&theme=bear&hide=TeX,Java)](https://github.com/lekandev/github-readme-stats)
 
-
-
-Projects i'm proud of:
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lekandev&repo=covid-19-tracker&theme=bear)](https://github.com/lekandev/github-readme-stats)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lekandev&repo=Admin-Dashboard&theme=bear)](https://github.com/lekandev/github-readme-stats)
-
-</div>
-
-<a href='https://github.com/marketplace/actions/quote-readme'>
+<a align="center" href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝In 2012, the founder of McAfee Antivirus, John McAfee was asked if he personally uses McAfee anti-virus, he replied by saying “I take it off,” and that “It’s too annoying.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
