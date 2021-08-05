@@ -57,8 +57,8 @@ Technologies I'm planning on learning:
 ![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=Reactnative&logoColor=white&color=4AB197)
   
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=lekandev&show_icons=true&theme=bear">
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=lekandev&theme=bear" />
+<img src="https://github-readme-stats.vercel.app/api?username=lekandev&show_icons=true&theme=bear">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lekandev&theme=bear" />
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lekandev&layout=compact&theme=bear&hide=TeX,Java)](https://github.com/lekandev/github-readme-stats)
