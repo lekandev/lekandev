@@ -61,7 +61,7 @@ Technologies I'm planning on learning:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lekandev&theme=bear" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lekandev&layout=compact&theme=bear&hide=TeX,Java)](https://github.com/lekandev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lekandev&layout=compact&theme=bear&hide=TeX,Java,Objective-C)](https://github.com/lekandev/github-readme-stats)
 
 <a align="center" href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
