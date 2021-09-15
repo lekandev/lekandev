@@ -6,7 +6,7 @@ I am an idealistic teenager, Creative Coder and **Fullstack/frontend developer**
 
 ```javascript
 const aboutMe = {name: 'Mohammed Kabir Hussaini',
-                 age: 17,
+<!--                  age: 18, -->
                  title: 'Fullstack Developer',
                  stack: 'MERN, MEVN, React Native'
 }
