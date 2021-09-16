@@ -16,9 +16,9 @@ const aboutMe = {name: 'Mohammed Kabir Hussaini',
 
 ![](https://komarev.com/ghpvc/?username=lekandev&color=red)
 
-You can check out my portfolio at [lekan's portfolio](https://lekan.vercel.app)
+You can check out my portfolio [here](https://lekan.vercel.app)
 
-Check out my blog at [lekan's Hideout](https://lekandev.hashnode.dev)
+Check out my blog [here](https://lekandev.hashnode.dev)
 
 👯 I’m looking to collaborate on Fulltack and JavaScipt Projects
 
@@ -26,9 +26,7 @@ Check out my blog at [lekan's Hideout](https://lekandev.hashnode.dev)
 
 🌱 I’m currently learning NodeJs and React Native
 
-⚡ Fun fact: I sometimes create Games with: 
-
-<img src="https://img.shields.io/badge/unreal%20engine%20-%23313131.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white"/>
+⚡ Fun fact: 🙂🙂🙂
 
 📫 How to reach me: <img src="https://img.shields.io/badge/lekandev%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> <img src="https://img.shields.io/badge/lekandev%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 
