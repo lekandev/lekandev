@@ -2,12 +2,13 @@
 
 My name is 
 ## *Mohammed Kabir Hussaini*,
-I am an idealistic, Creative Coder and **Fullstack/frontend developer** capable of translating beautiful User Interfaces into Responsive and pixel perfect websites with skills on **JavaScript,  ReactJs and NextJs**. I tend to have major, original ideas to create the next big thing.
+I am an idealistic teenager, Creative Coder and **Fullstack/frontend developer** capable of translating beautiful User Interfaces into Responsive and pixel perfect websites with skills on **JavaScript,  ReactJs and NextJs**. I tend to have major, original ideas to create the next big thing.
 
 ```javascript
 const aboutMe = {name: 'Mohammed Kabir Hussaini',
                  title: 'Fullstack Developer',
-                 stack: 'MERN, MEVN, React Native'
+                 age: 18,
+                 stack: 'MERN, Vue, React Native'
 }
 ```
 
