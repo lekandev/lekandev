@@ -63,6 +63,6 @@ Technologies I'm planning on learning:
 
 <a align="center" href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Facebook has over a billion users. If it was a country it would be the third largest in the world.❞</i>
+<i>❝“Make everything as simple as possible, but not simpler.”— Albert Einstein   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
