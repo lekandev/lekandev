@@ -24,9 +24,9 @@ Check out my blog [here](https://lekandev.hashnode.dev)
 
 🔭 I’m currently working on a Multi vendor restaurant application with MERN
 
-🌱 I’m currently learning NodeJs and React Native
+🌱 I’m currently learning Web3 and Solidity
 
-⚡ Fun fact: 🙂🙂🙂
+⚡ Fun fact: 😌😌😌
 
 📫 How to reach me: <img src="https://img.shields.io/badge/lekandev%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> <img src="https://img.shields.io/badge/lekandev%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 
@@ -45,6 +45,7 @@ Here the technologies I'm conversant with:
 ![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=nodejs&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=Express&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MongoDb-informational?style=flat&logo=MongoDb&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=Reactnative&logoColor=white&color=4AB197)
 
 Technologies I'm planning on learning:
 
@@ -52,7 +53,6 @@ Technologies I'm planning on learning:
 ![](https://img.shields.io/badge/Code-AWS-informational?style=flat&logo=AWS&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Jenkins-informational?style=flat&logo=Jenkins&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=Reactnative&logoColor=white&color=4AB197)
   
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=lekandev&show_icons=true&theme=bear">
