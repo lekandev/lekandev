@@ -58,7 +58,7 @@ Technologies I'm planning on learning:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lekandev&layout=compact&theme=bear&hide=TeX,Java,Objective-C,HTML,CSS)](https://github.com/lekandev/github-readme-stats)
   
-[![lekandev's github activity graph](https://activity-graph.herokuapp.com/graph?username=lekandev)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![lekandev's github activity graph](https://activity-graph.herokuapp.com/graph?username=lekandev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <a align="center" href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
