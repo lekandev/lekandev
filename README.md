@@ -52,11 +52,11 @@ Technologies I'm planning on learning:
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=4AB197)
   
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lekandev&show_icons=true&theme=radical">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lekandev&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=lekandev&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lekandev&theme=tokyonight" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lekandev&layout=compact&theme=radical&hide=TeX,Java,Objective-C,HTML,CSS)](https://github.com/lekandev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lekandev&layout=compact&theme=tokyonight&hide=TeX,Java,Objective-C,HTML,CSS)](https://github.com/lekandev/github-readme-stats)
   
 [![lekandev's github activity graph](https://activity-graph.herokuapp.com/graph?username=lekandev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
