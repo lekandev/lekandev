@@ -41,6 +41,6 @@ Check out my blog [here](https://lekandev.hashnode.dev)
 
 <a align="center" href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“BASIC is to computer programming as QWERTY is to typing.”— Seymour Papert   ❞</i>
+<i>❝Lenovo stands for ‘new legend’. ‘Le’ for legend, and ‘novo’ stands for new.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
