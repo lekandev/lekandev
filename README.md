@@ -13,19 +13,9 @@ const lekandev = {
 }
 ```
 
-![](https://komarev.com/ghpvc/?username=lekandev&color=red)
-
 You can check out my portfolio [here](https://heylekan.vercel.app)
 
 Check out my blog [here](https://heylekan.vercel.app/blog/)
-
-👯 I’m looking to collaborate on Fulltack and JavaScipt Projects
-
-🔭 I’m currently working on projects at @CreateNext
-
-🌱 I’m currently exploring creative development
-
-⚡ Fun fact: C++ is easier than javascript 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lekandev&theme=tokyonight&hide=TeX,Java,Objective-C,HTML,CSS)](https://github.com/lekandev/github-readme-stats)
 
