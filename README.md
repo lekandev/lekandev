@@ -28,11 +28,9 @@ Check out my blog [here](https://heylekan.vercel.app/blog/)
 ⚡ Fun fact: C++ is easier than javascript 
   
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lekandev&show_icons=true&theme=tokyonight">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lekandev&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=lekandev&show_icons=true&theme=tokyonight" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lekandev&layout=compact&theme=tokyonight&hide=TeX,Java,Objective-C,HTML,CSS)](https://github.com/lekandev/github-readme-stats)
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lekandev&layout=compact&theme=tokyonight&hide=TeX,Java,Objective-C,HTML,CSS)](https://github.com/lekandev/github-readme-stats)
 
 <a align="end" href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
