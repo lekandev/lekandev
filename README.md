@@ -33,10 +33,8 @@ Check out my blog [here](https://heylekan.vercel.app/blog/)
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lekandev&layout=compact&theme=tokyonight&hide=TeX,Java,Objective-C,HTML,CSS)](https://github.com/lekandev/github-readme-stats)
-  
-[![lekandev's github activity graph](https://activity-graph.herokuapp.com/graph?username=lekandev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<a align="right" href='https://github.com/marketplace/actions/quote-readme'>
+<a align="end" href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝“In a room full of top software designers, if two agree on the same thing, that’s a majority.”— Bill Curtis   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
