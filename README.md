@@ -1,11 +1,12 @@
-## Hi there 👋
-
-My name is 
 ## *Mohammed Kabir Hussaini*,
-I am a Creative developer and **software developer** capable of translating beautiful User Interfaces into Responsive and pixel perfect websites with skills on **JavaScript,  ReactJs and NextJs**. I tend to have major, original ideas to create the next big thing.
+I am a Software developer currently exploring creative development capable of translating beautiful User Interfaces into Responsive and pixel perfect websites.
+
+I use **JavaScript, React, NextJs, React Native and Node**.
+
+I tend to have major, original ideas to create the next big thing 🙂.
 
 ```javascript
-const aboutMe = {name: 'Mohammed Kabir Hussaini',
+const lekandev = {
                  title: 'Software Developer',
                  age: 19,
                  stack: 'Nextjs, Nodejs, React Native'
