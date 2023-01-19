@@ -1,5 +1,5 @@
 ## *Mohammed Kabir Hussaini*,
-I am a Software developer currently exploring creative development capable of translating beautiful User Interfaces into Responsive and pixel perfect websites.
+I am a Software developer currently exploring creative development.
 
 I use **JavaScript, React, NextJs, React Native and Node**.
 
