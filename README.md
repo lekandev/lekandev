@@ -1,4 +1,4 @@
-## *Mohammed Kabir Hussaini*,
+## *Mohammed 'Kabir*,
 I am a Software developer currently exploring creative development.
 
 I use **JavaScript, React, NextJs, React Native and Node**.
@@ -13,9 +13,7 @@ const lekandev = {
 }
 ```
 
-You can check out my portfolio [here](https://heylekan.vercel.app)
-
-Check out my blog [here](https://heylekan.vercel.app/blog/)
+[FOLIO V2](https://heylekan.vercel.app) | [BLOG](https://heylekan.vercel.app/blog/)
 
 <a align="end" href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
