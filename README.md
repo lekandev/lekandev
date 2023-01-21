@@ -1,4 +1,4 @@
-## *Mohammed 'Kabir*,
+## *Mohammed 'Kabir (lekandev)*,
 I am a Software developer currently exploring creative development.
 
 I use **JavaScript, React, NextJs, React Native and Node**.
