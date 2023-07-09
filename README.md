@@ -22,6 +22,6 @@ let lekandev: object = {
 
 <a align="end" href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Java is the most distressing thing to hit computing since MS-DOS.”— Alan Kay  ❞</i>
+<i>❝E-Mail was invented before Internet. Shocked!!!! ” I also got shocked after hearing this.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
