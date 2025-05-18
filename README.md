@@ -22,6 +22,6 @@ let lekandev: object = {
 
 <a align="end" href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Software is a gas; it expands to fill its container.”— Nathan Myhrvold  ❞</i>
+<i>❝“In the future, computers may weigh no more than 1.5 tonnes.”— Popular mechanics, 1949   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
